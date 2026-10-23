@@ -1,0 +1,1 @@
+{"description":"Tiny zero-dependency webhook receiver for Deplexo free tier","engines":{"node":">=18"},"main":"server.js","name":"webhook-receiver","scripts":{"start":"node server.js"},"version":"1.0.0"}
